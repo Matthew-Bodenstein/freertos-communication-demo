@@ -47,7 +47,7 @@ If you download this repo by itself, it will not compile straight away — you a
 
 ### Steps:
 1. Install **Visual Studio (Community Edition)**.  
-2. Download the **FreeRTOS Windows Simulator** from [FreeRTOS.org](https://www.freertos.org/porting-a-freertos-demo-to-windows.html).  
+2. Download the **FreeRTOS Windows Simulator** from [FreeRTOS.org]([https://www.freertos.org/porting-a-freertos-demo-to-windows.html](https://www.freertos.org/Documentation/02-Kernel/03-Supported-devices/04-Demos/02-Supported-demos).  
 3. Open the Visual Studio solution that comes with the simulator.  
 4. Add the files from this repo’s `src/` folder (`main.cpp` and `FreeRTOSConfig.h`) into the project.  
 5. Build and run in Debug mode.  
