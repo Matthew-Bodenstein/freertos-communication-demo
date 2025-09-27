@@ -83,4 +83,4 @@ It mirrors real-world engineering tasks such as:
 ---
 
 ## License
-This project uses FreeRTOS under its open-source license. See [FreeRTOS License]([https://www.freertos.org/license.html](https://freertos.org/Documentation/02-Kernel/01-About-the-FreeRTOS-kernel/04-Licensing](https://freertos.org/Documentation/02-Kernel/01-About-the-FreeRTOS-kernel/04-Licensing]).
+This project uses FreeRTOS under its open-source license. See https://freertos.org/Documentation/02-Kernel/01-About-the-FreeRTOS-kernel/04-Licensing.
